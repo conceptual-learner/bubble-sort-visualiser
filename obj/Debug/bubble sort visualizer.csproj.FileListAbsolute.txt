@@ -1,0 +1,12 @@
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\bin\Debug\bubble sort visualizer.exe.config
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\bin\Debug\bubble sort visualizer.exe
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\bin\Debug\bubble sort visualizer.pdb
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble sort visualizer.csprojResolveAssemblyReference.cache
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble_sort_visualizer.Form1.resources
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble_sort_visualizer.Properties.Resources.resources
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble sort visualizer.csproj.GenerateResource.Cache
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble sort visualizer.exe
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\bubble sort visualizer\bubble sort visualizer\obj\Debug\bubble sort visualizer.pdb
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\BUBBLE SORT VISUALIZER\github-bubblesort\bubble sort visualizer\bin\Debug\bubble sort visualizer.exe.config
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\BUBBLE SORT VISUALIZER\github-bubblesort\bubble sort visualizer\obj\Debug\bubble sort visualizer.exe
+C:\Users\P THILAK\Desktop\THILAK\CoDiNg\PROJECTS\BUBBLE SORT VISUALIZER\github-bubblesort\bubble sort visualizer\obj\Debug\bubble sort visualizer.pdb
